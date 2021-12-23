@@ -96,9 +96,6 @@ spec:
 
 ## NMState
 
-**Note:** This feature is **experimental**. NMState is unstable and its API
-may change.
-
 The operator allows the administrator to deploy the [NMState State
 Controller](https://github.com/nmstate/nmstate) as a daemonset across all of
 one's nodes. This project manages host networking settings in a declarative
